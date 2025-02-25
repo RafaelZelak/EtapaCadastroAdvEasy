@@ -1,0 +1,7 @@
+.env
+old/
+__pycache__
+utils/__pycache__
+bitrix_utils.log
+defaultData.ps1
+SimulaWebhook.py
